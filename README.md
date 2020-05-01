@@ -1,0 +1,1 @@
+This repository contains assets for Mansions of Madness 2e. The 3D models are created using Agisoft Metashape from images taken of minis that we have painted ourselves. The card images are scans taken via phone of our cards. These assets are intended to be used to improve [GabrielM's mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1373667528) on Tabletop Simulator.
